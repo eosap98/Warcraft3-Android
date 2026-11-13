@@ -12,12 +12,6 @@ menu sumber daya untuk pemain tunggal, dan multiplayer LAN.
 APK memerlukan data Warcraft III milik sendiri. Repositori memuat engine,
 launcher, dan kamus lokalisasi; instalasi game lengkap tidak disertakan.
 
-- [Panduan kontrol](docs/PANDUAN-KONTROL-INDONESIA.txt)
-- [Panduan LAN](docs/PANDUAN-LAN-INDONESIA.txt)
-- [Catatan versi](CHANGELOG.md)
-- [Hasil pemeriksaan paket](docs/VERIFIKASI-v0.3.6.4.md)
-- [Dokumentasi upstream dan Windows](docs/README-UPSTREAM.md)
-
 ## Fitur versi ini
 
 - Bahasa Indonesia untuk launcher, menu permainan, dan teks yang tersedia
