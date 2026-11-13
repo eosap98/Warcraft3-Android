@@ -12,7 +12,6 @@ menu sumber daya untuk pemain tunggal, dan multiplayer LAN.
 APK memerlukan data Warcraft III milik sendiri. Repositori memuat engine,
 launcher, dan kamus lokalisasi; instalasi game lengkap tidak disertakan.
 
-- [Cara mengunggah ke GitHub](docs/CARA-UPLOAD-GITHUB.md)
 - [Panduan kontrol](docs/PANDUAN-KONTROL-INDONESIA.txt)
 - [Panduan LAN](docs/PANDUAN-LAN-INDONESIA.txt)
 - [Catatan versi](CHANGELOG.md)
