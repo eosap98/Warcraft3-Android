@@ -5,7 +5,6 @@
 **Versi 0.3.6.4 · versionCode 5 · Android 8.0+ · AsfatreHilmi**
 
 Engine dan launcher Warcraft III untuk Android, berdasarkan
-[W3AndroidEngine](https://github.com/nikoltu/W3AndroidEngine) dan
 [Warsmash](https://github.com/Retera/WarsmashModEngine). Versi ini memuat
 antarmuka Bahasa Indonesia, perbaikan kontrol sentuh, pengaturan performa,
 menu sumber daya untuk pemain tunggal, dan multiplayer LAN.
@@ -133,9 +132,6 @@ docs/          panduan, gambar, dan hasil pemeriksaan
 
 ## Kredit dan lisensi
 
-- [nikoltu/W3AndroidEngine](https://github.com/nikoltu/W3AndroidEngine):
-  basis Android/desktop. Snapshot upstream: v0.3.6, commit
-  `a865a38905581166cc960113e1c21602efc96193`.
 - [Retera/WarsmashModEngine](https://github.com/Retera/WarsmashModEngine)
   dan para kontributor Warsmash.
 - Penyesuaian versi Indonesia/Android: **AsfatreHilmi**.
